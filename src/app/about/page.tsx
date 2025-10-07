@@ -1,10 +1,10 @@
-import StaticNavbar from '@/components/StaticNavbar'
+import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
 
 export default function AboutPage() {
   return (
     <main className="min-h-screen bg-white">
-      <StaticNavbar />
+      <Navbar />
       
       <section className="pt-24 pb-16 bg-gradient-to-br from-brown-50 to-brown-100 relative overflow-hidden">
         {/* Background decorative text - Mobile friendly */}

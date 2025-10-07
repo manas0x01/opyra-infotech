@@ -1,4 +1,4 @@
-import StaticNavbar from '@/components/StaticNavbar'
+import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
 
 export default function ServicesPage() {
@@ -79,7 +79,7 @@ export default function ServicesPage() {
 
   return (
     <main className="min-h-screen bg-white">
-      <StaticNavbar />
+      <Navbar />
       
       {/* Hero Section */}
       <section className="pt-24 pb-16 bg-gradient-to-br from-brown-50 via-brown-100 to-brown-200 relative overflow-hidden">
