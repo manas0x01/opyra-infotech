@@ -77,9 +77,9 @@ export default function Hero() {
             <button className="bg-brown-700 text-white px-10 py-4 rounded-none text-base font-bold hover:bg-brown-800 transition-all duration-300 transform hover:scale-105 tracking-wide uppercase shadow-xl creative-text">
               Find Out How
             </button>
-            <button className="border-2 border-white text-white px-10 py-4 rounded-none text-base font-bold hover:bg-white hover:text-brown-800 transition-all duration-300 transform hover:scale-105 tracking-wide uppercase shadow-xl creative-text">
+            {/* <button className="border-2 border-white text-white px-10 py-4 rounded-none text-base font-bold hover:bg-white hover:text-brown-800 transition-all duration-300 transform hover:scale-105 tracking-wide uppercase shadow-xl creative-text">
               Get A Quote
-            </button>
+            </button> */}
           </div>
         </div>
       </div>
