@@ -11,8 +11,8 @@ export default function Footer() {
               Digital Agency That Thrives on Your Success. We help businesses create remarkable online presence.
             </p>
             <div className="space-y-3 text-brown-300 font-roboto font-light tracking-wide">
-              <p>📍 1234 N Spring St, Los Angeles, CA 90012</p>
-              <p>✉️ mail@example.com</p>
+              <p>📍AIC BUILDING BHU VARANASI 221005, UP INDIA</p>
+              <p>✉️ infotechopyra@gmail.com</p>
             </div>
           </div>
           
