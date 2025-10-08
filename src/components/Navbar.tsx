@@ -27,11 +27,11 @@ export default function Navbar() {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <Link href="/" className="flex-shrink-0 flex items-center">
-              <span className={`text-2xl font-bold transition-colors duration-300 creative-text ${
-                isScrolled ? 'text-brown-800' : 'text-white drop-shadow-lg'
-              }`}>
-                OPYRA INFOTECH
-              </span>
+              <img 
+                src="/images/logos/opyralogor.png" 
+                alt="Opyra Infotech Logo" 
+                className="h-20 w-auto transition-all duration-300 "
+              />
             </Link>
           </div>
           

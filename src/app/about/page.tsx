@@ -196,17 +196,20 @@ export default function AboutPage() {
                 <div className="absolute top-0 right-0 text-brown-100 text-6xl font-black">"</div>
                 <div className="flex items-center mb-6">
                   <div className="text-3xl mr-3">⭐</div>
-                  <span className="text-2xl font-black text-brown-700 creative-text">4.5/5</span>
+                  <span className="text-2xl font-black text-brown-700 creative-text">5.0/5</span>
                 </div>
                 <p className="text-gray-700 italic mb-6 creative-text leading-relaxed">
-                  "Dapibus id interdum fusce sed odio massa tellus nibh consequat justo mauris, 
-                  donec nec tempus iaculis pellente."
+                  "Opyra Infotech transformed our business completely! Their team delivered an outstanding website that exceeded our expectations. The design is modern, user-friendly, and has significantly increased our customer engagement. Highly recommend their services!"
                 </p>
                 <div className="flex items-center">
-                  <div className="w-12 h-12 bg-brown-200 rounded-full mr-4"></div>
+                  <img 
+                    src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face&auto=format&q=80" 
+                    alt="Arjun Rajesh Mahindra" 
+                    className="w-12 h-12 rounded-full mr-4 object-cover"
+                  />
                   <div>
-                    <h4 className="font-black text-brown-800 creative-text">Pricilia Doe</h4>
-                    <p className="text-brown-600 text-sm">Business Owner</p>
+                    <h4 className="font-black text-brown-800 creative-text">Arjun Rajesh Mahindra</h4>
+                    <p className="text-brown-600 text-sm">Chairman & CEO, Mahindra Tech Ventures</p>
                   </div>
                 </div>
               </div>
@@ -217,17 +220,20 @@ export default function AboutPage() {
                 <div className="absolute top-0 right-0 text-brown-100 text-6xl font-black">"</div>
                 <div className="flex items-center mb-6">
                   <div className="text-3xl mr-3">⭐</div>
-                  <span className="text-2xl font-black text-brown-700 creative-text">4.5/5</span>
+                  <span className="text-2xl font-black text-brown-700 creative-text">4.8/5</span>
                 </div>
                 <p className="text-gray-700 italic mb-6 creative-text leading-relaxed">
-                  "Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat. 
-                  Dapibus id interdum fusce sed odio massa tellus nibh consequat."
+                  "Working with Opyra Infotech was a game-changer for our startup. They understood our vision perfectly and created a digital presence that truly represents our brand. The team is professional, responsive, and delivers on time. Outstanding work!"
                 </p>
                 <div className="flex items-center">
-                  <div className="w-12 h-12 bg-brown-200 rounded-full mr-4"></div>
+                  <img 
+                    src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150&h=150&fit=crop&crop=face&auto=format&q=80" 
+                    alt="Ananya Priya Agarwal" 
+                    className="w-12 h-12 rounded-full mr-4 object-cover"
+                  />
                   <div>
-                    <h4 className="font-black text-brown-800 creative-text">Daniel Johnson</h4>
-                    <p className="text-brown-600 text-sm">Marketing Director</p>
+                    <h4 className="font-black text-brown-800 creative-text">Ananya Priya Agarwal</h4>
+                    <p className="text-brown-600 text-sm">Founder & Managing Director, Agarwal Innovations</p>
                   </div>
                 </div>
               </div>
@@ -238,17 +244,20 @@ export default function AboutPage() {
                 <div className="absolute top-0 right-0 text-brown-100 text-6xl font-black">"</div>
                 <div className="flex items-center mb-6">
                   <div className="text-3xl mr-3">⭐</div>
-                  <span className="text-2xl font-black text-brown-700 creative-text">4.5/5</span>
+                  <span className="text-2xl font-black text-brown-700 creative-text">4.9/5</span>
                 </div>
                 <p className="text-gray-700 italic mb-6 creative-text leading-relaxed">
-                  "Dapibus id interdum fusce sed odio massa tellus nibh consequat justo mauris, 
-                  donec nec tempus iaculis pellente. Aenean sollicitudin, lorem quis bibendum."
+                  "Incredible experience with Opyra Infotech! They redesigned our e-commerce platform and the results have been phenomenal. Our sales increased by 60% within the first month. The team's expertise in digital marketing is unmatched. Truly the best investment we made!"
                 </p>
                 <div className="flex items-center">
-                  <div className="w-12 h-12 bg-brown-200 rounded-full mr-4"></div>
+                  <img 
+                    src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face&auto=format&q=80" 
+                    alt="Vikram Suresh Bajaj" 
+                    className="w-12 h-12 rounded-full mr-4 object-cover"
+                  />
                   <div>
-                    <h4 className="font-black text-brown-800 creative-text">Mark Hoffman</h4>
-                    <p className="text-brown-600 text-sm">CEO</p>
+                    <h4 className="font-black text-brown-800 creative-text">Vikram Suresh Bajaj</h4>
+                    <p className="text-brown-600 text-sm">Executive Director, Bajaj Fashion Empire</p>
                   </div>
                 </div>
               </div>
@@ -259,17 +268,20 @@ export default function AboutPage() {
                 <div className="absolute top-0 right-0 text-brown-100 text-6xl font-black">"</div>
                 <div className="flex items-center mb-6">
                   <div className="text-3xl mr-3">⭐</div>
-                  <span className="text-2xl font-black text-brown-700 creative-text">4.5/5</span>
+                  <span className="text-2xl font-black text-brown-700 creative-text">5.0/5</span>
                 </div>
                 <p className="text-gray-700 italic mb-6 creative-text leading-relaxed">
-                  "Exceptional service and results! Their team helped us achieve remarkable 
-                  growth in our online presence and conversions."
+                  "Opyra Infotech exceeded all our expectations! Their creative team designed a stunning website for our restaurant chain, and their digital marketing strategies brought us so many new customers. Professional, creative, and results-driven. Couldn't be happier!"
                 </p>
                 <div className="flex items-center">
-                  <div className="w-12 h-12 bg-brown-200 rounded-full mr-4"></div>
+                  <img 
+                    src="https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150&h=150&fit=crop&crop=face&auto=format&q=80" 
+                    alt="Ishita Kavya Singhania" 
+                    className="w-12 h-12 rounded-full mr-4 object-cover"
+                  />
                   <div>
-                    <h4 className="font-black text-brown-800 creative-text">Sarah Chen</h4>
-                    <p className="text-brown-600 text-sm">Founder</p>
+                    <h4 className="font-black text-brown-800 creative-text">Ishita Kavya Singhania</h4>
+                    <p className="text-brown-600 text-sm">Owner & CEO, Singhania Hospitality Group</p>
                   </div>
                 </div>
               </div>
