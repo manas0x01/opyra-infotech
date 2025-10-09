@@ -58,6 +58,13 @@ export default function Navbar() {
             }`}>
               Services
             </Link>
+            <Link href="/software" className={`px-3 py-2 text-sm font-medium transition-colors duration-300 creative-text uppercase ${
+              isScrolled 
+                ? 'text-brown-700 hover:text-brown-900' 
+                : 'text-white hover:text-brown-200 drop-shadow-lg'
+            }`}>
+              Software
+            </Link>
             <Link href="/contact" className={`px-3 py-2 text-sm font-medium transition-colors duration-300 creative-text uppercase ${
               isScrolled 
                 ? 'text-brown-700 hover:text-brown-900' 
@@ -127,6 +134,13 @@ export default function Navbar() {
               : 'text-white hover:text-brown-200 hover:bg-white/10'
           }`}>
             Services
+          </Link>
+          <Link href="/software" className={`block px-3 py-2 rounded-md text-base font-medium transition-colors duration-300 creative-text ${
+            isScrolled 
+              ? 'text-brown-700 hover:text-brown-900 hover:bg-brown-100' 
+              : 'text-white hover:text-brown-200 hover:bg-white/10'
+          }`}>
+            Software
           </Link>
           <Link href="/contact" className={`block px-3 py-2 rounded-md text-base font-medium transition-colors duration-300 creative-text ${
             isScrolled 
