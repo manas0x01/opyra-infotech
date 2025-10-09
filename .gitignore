@@ -10,5 +10,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Exclude large EXE files from git
+# Exclude large EXE files
+*.exe
 public/downloads/*.exe
