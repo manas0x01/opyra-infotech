@@ -18,7 +18,7 @@ const erpProducts: ERPProduct[] = [
     title: 'Business ERP',
     description: "India's First GST Ready Business ERP Software for Supermarkets, Mobile Shops / Computers / Electronics / FMCG Dealers, Retailers / Wholesalers / Manufacturers",
     icon: '💼',
-    downloadLink: '/downloads/Business_ERP_Setup.exe',
+    downloadLink: '/downloads/BusinessERP_Setup.exe',
     features: ['GST Ready', 'Inventory Management', 'Financial Accounting'],
     category: 'Business'
   },
@@ -42,7 +42,7 @@ const erpProducts: ERPProduct[] = [
     title: 'Hotel ERP',
     description: 'Software for Hotels and Restaurants with K.O.T. Management, Table Booking, Room Rent Service, Billing, Stock Management, Production. Very Easy to operate.',
     icon: '🏨',
-    downloadLink: '/downloads/HotelERP_Setup.exe',
+    downloadLink: '/downloads/HotelERP_setup.exe',
     features: ['KOT Management', 'Table Booking', 'Room Service'],
     category: 'Hospitality'
   },
@@ -50,7 +50,7 @@ const erpProducts: ERPProduct[] = [
     title: 'Lab ERP 2.0',
     description: 'Software For Clinical Labs to maintain record of patients with accurate test reports. Completely customizable with own Tests and formulations.',
     icon: '🧪',
-    downloadLink: '/downloads/Lab_ERP2_Setup.exe',
+    downloadLink: '/downloads/Lab_ERP2_setup.exe',
     features: ['Patient Records', 'Test Reports', 'Custom Tests'],
     category: 'Healthcare'
   },
@@ -66,7 +66,7 @@ const erpProducts: ERPProduct[] = [
     title: 'Milk Man (Unicode)',
     description: 'Software for Milk Dairies maintain farmer record,FAT-SNF-CLR According, 10 Days Bill,Stock,Farmer Summary,Profit Loss,Farmer Bills & more features',
     icon: '🥛',
-    downloadLink: '/downloads/MilkMan_Setup.exe',
+    downloadLink: '/downloads/Milk Man_setup.exe',
     features: ['Farmer Records', 'Fat-SNF Testing', 'Billing System'],
     category: 'Agriculture'
   },
@@ -74,7 +74,7 @@ const erpProducts: ERPProduct[] = [
     title: 'Institute ERP',
     description: 'Software for Institutes to handle Enquiry, Admission, Fee Management, Library, Attendance, Time Table. Certificates, ID Card, Reminder Letters, Demand.',
     icon: '🎓',
-    downloadLink: '/downloads/InstituteERP_Setup.exe',
+    downloadLink: '/downloads/InstitueERP_Setup.exe',
     features: ['Admission Management', 'Course Management', 'Library System'],
     category: 'Education'
   },
@@ -114,7 +114,7 @@ const erpProducts: ERPProduct[] = [
     title: 'Medical ERP',
     description: 'ERP Software For Pharmaceutical Dealers and Distributors (Wholesale and Retail Chemists) with Stock management, Expiry Calculation & much more.',
     icon: '🏥',
-    downloadLink: '/downloads/Medical_Setup.exe',
+    downloadLink: '/downloads/MediCal_Setup.exe',
     features: ['Medicine Stock', 'Expiry Tracking', 'GST Billing'],
     category: 'Healthcare'
   },
